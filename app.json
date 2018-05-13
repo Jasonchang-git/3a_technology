@@ -1,0 +1,7 @@
+{
+  "name": "Node-RED Heroku",
+  "description": "Run Node-RED on Heroku",
+  "repository": "https://github.com/Jasonchang-git/3a_technology",
+  "keywords": ["node", "node-red", "node-red-line"],
+  "image": "heroku/nodejs"
+}
