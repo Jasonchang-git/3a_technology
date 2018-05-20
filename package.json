@@ -1,5 +1,5 @@
 {
-  "name": "node-red-linebot",
+  "name": "node-red-otto",
   "version": "0.0.1",
   "description": "Run Node-RED on Heroku",
   "engines": {
